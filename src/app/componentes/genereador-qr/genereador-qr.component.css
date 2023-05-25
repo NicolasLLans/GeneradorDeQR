@@ -11,6 +11,10 @@ h1{
       gap: 25px;
 }
 
+img{
+      height: 150px;
+}
+
 .input{
       height: 35px;
       width: 100%;
